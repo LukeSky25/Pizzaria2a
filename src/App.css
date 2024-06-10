@@ -5,6 +5,18 @@
   text-align: center;
 }
 
+.home {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 400px;
+  height: 500px;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
